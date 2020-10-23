@@ -6,7 +6,7 @@ Currently tackling Wes Bos's JavaScript, React.js, Node.js, and Gatsby.js course
 
 #### ⚡ TECH STACK ⚡
 
-JS / NODE JS / JQUERY / HTML / CSS / SCSS / LESS / BOOSTRAP / GITHUB / REST API / AZURE / GOOGLE API's
+JS / NODE JS / JQUERY / HTML / NPM / CSS / SCSS / TAILWIND / BOOSTRAP / GITHUB / REST API'S / AZURE / GOOGLE API's
 
 ####
 
