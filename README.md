@@ -1,12 +1,12 @@
 ### Hey! 👋
 
-I'm Brad, previously a graphic / web designer. Stepping into the wild world of full stack web developement.\
+I'm Brad, A graphic / web designer. Diving into the world of full stack web developement.\
 From agency to freelancer; I'm looking to hone my skills from the start to the finish of any project thrown at me.\
-Currently tackling Wes Bos's JavaScript, React.js, Node.js, and Gatsby.js courses.
+Currently tackling Wes Bos's JavaScript, React, Node, and GatsbY courses.
 
 #### ⚡ TECH STACK ⚡
 
-JS / NODE JS / JQUERY / HTML / NPM / CSS / SCSS / TAILWIND / BOOSTRAP / GITHUB / REST API'S / AZURE / GOOGLE API's
+REACT / GATSBY / FIREBASE / MONGO_DB / AWS / JS / JQUERY / NODE / NPM / HTML5 / CSS / SCSS / TAILWIND / BOOSTRAP / GITHUB / REST API'S / AZURE / SANITY / 
 
 ####
 
