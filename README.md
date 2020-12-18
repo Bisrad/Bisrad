@@ -1,8 +1,9 @@
 ### Hey! 👋
 
 I'm Brad, A graphic / web designer. Diving into the world of full stack web developement.\
-From agency to freelancer; I'm looking to hone my skills from the start to the finish of any project thrown at me.\
-Currently tackling Wes Bos's JavaScript, React, Node, and GatsbY courses.
+From agency to freelancer; Building interactive Apps and Sites is my end goal. \
+\
+Currently tackling Wes Bos's JavaScript, React, Node, and Gatsby courses.
 
 #### ⚡ TECH STACK ⚡
 
